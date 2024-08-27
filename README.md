@@ -11,12 +11,12 @@ I developed this project by following the Codebasics Power BI Course. You can fi
 
 ## Tech Stacks
 
--SQL
--PowerBi Desktop
--Excel
--DAX language
--DAX studio (for optimizing the report)
--Project charter file
+- SQL
+- PowerBi Desktop
+- Excel
+- DAX language
+- DAX studio (for optimizing the report)
+- Project charter file
 
 
 
