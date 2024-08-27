@@ -6,7 +6,7 @@ AtliQ Hardware has experienced significant growth in recent years and has decide
 
 I developed this project by following the Codebasics Power BI Course. You can find the course [here](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance).
 
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNGEwYmE5NTEtYWNiZS00NTNiLWJjMTktOGU2YzFkYWRkYWU4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiY2IzZTJjNjctNzFkNy00MjBiLTgwMTQtMzE5YzM2MmYyOTQ4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Tech Stacks
 
@@ -171,6 +171,24 @@ Fact table : It will have the data about the transactions.
 In this project, we have employed the **Snowflake data modeling method** to structure our data.
 
 ![image](https://github.com/user-attachments/assets/e34f08f3-3477-4474-b78c-84fb33e2974a)
+
+### Dashboard Designing
+
+Based on the received mock-ups and requirements, the team will begin designing the visuals and creating measures as needed.
+
+## Home View
+
+In the Home view, all navigation buttons will be available. Users can access a specific view page by clicking the corresponding button.
+
+- Info
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Support
+
+
 
 
 
