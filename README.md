@@ -101,9 +101,9 @@ Gaining a thorough understanding of the available data is crucial for effective 
 
 A clear grasp of these aspects will provide a solid foundation for performing meaningful and accurate analysis.
 
-Dimension table : It will have the static data like details of customer and products
+Dimension table : It will have the static data like details of customer and products.
 
-Fact table : It will have the data about the transactions
+Fact table : It will have the data about the transactions.
 
 - gdb041:
   - dim_customer
@@ -135,30 +135,42 @@ Fact table : It will have the data about the transactions
         - N & S
           - Networking
           - Storage
-    - There are 14 different categories, Like Internal HDD, keyboard
-    - There are different variants available for the same product
+    - There are 14 different categories, Like Internal HDD, keyboard, etc.
+    - There are different variants available for the same product.
   - fact_forecast_monthly
     - This table is used to forecast the customer’s need in advance, which can help in
        - Higher customer satisfaction
        - Reduced cost in warehouses for storage purpose
     - The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.
-    - All the date of the month will be replaced by the start date of the month
-    - It will have all the column names and in the end it will have the forecast quantity need of the customer
+    - All the dates of the month will be replaced by the start date of the month.
+    - It will have all the column names and in the end it will have the forecast quantity need of the customer.
   - fact_sales_monthly
-    - This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.
+    - This table is more or less the same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.
 
 - gdb056 :
    - freight_cost
-     - This table has details of travel cost and other cost for each market with fiscal year
+     - This table has details of travel cost and other costs for each market with fiscal year.
    - gross_price
-     - Has the details of gross prices with product code
+     - Has the details of gross prices with product code.
    - manufacturing_cost
-     - Has the details of manufacturing cost with product code with year
+     - Has the details of manufacturing cost with product code & year.
    - Pre_invoice_dedutions
-     - Has the details of pre invoice deductions percentage for each cutomer with year
+     - Has the details of pre-invoice deductions percentage for each customer with year.
    - Post_invoice_deductions
-     - Post invoice deductions and other deductions details
+     - Post invoice deductions and other deductions details.
 
+## Importing data in PowerBI :
+
+- Since the database for this project is in MySQL, the datasets need to be imported into Power BI. This requires providing the necessary database access credentials to establish a connection.
+
+## Data Model :
+
+- **Data modeling** is crucial, serving as the foundation for any report. The effectiveness of all visualizations hinges on a well-constructed data model. Poor data modeling can significantly impact the overall performance of the report.
+- Adhering to best practices in data modeling is essential. For more insights, refer to this [blog](https://addendanalytics.com/blog/data-modelling-best-practices) on data modeling best practices.
+
+In this project, we have employed the **Snowflake data modeling method** to structure our data.
+
+![image](https://github.com/user-attachments/assets/e34f08f3-3477-4474-b78c-84fb33e2974a)
 
 
 
