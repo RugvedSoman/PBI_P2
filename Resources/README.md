@@ -188,7 +188,8 @@ In the Home view, all navigation buttons will be available. Users can access a s
 - Executive View
 - Support
 
-![Description](Resources/Overall_report-gif.gif)
+![Overall Report](Resources/Overall_Report-gif.gif)
+
 
 
 
