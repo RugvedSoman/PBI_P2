@@ -188,7 +188,8 @@ In the Home view, all navigation buttons will be available. Users can access a s
 - Executive View
 - Support
 
-![Overall Report GIF](![image](https://github.com/user-attachments/assets/4c4cbad7-2374-4b47-9aa4-74fc0bd9fb94)
+<img src="https://github.com/RugvedSoman/PBI_P2/raw/main/Resources/O_R.gif" alt="Overall Report GIF" width="1000"/>
+
 
 
 
