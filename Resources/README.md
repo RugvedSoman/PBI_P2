@@ -210,6 +210,10 @@ In the Home view, all navigation buttons will be available. Users can access a s
 
 ## Supply Chain View
 
+<img src="https://github.com/RugvedSoman/PBI_P2/raw/main/Resources/SC_V.gif" alt="SC_V GIF" width="1000"/>
+
+## Executive View
+
 
 
 
