@@ -214,6 +214,13 @@ In the Home view, all navigation buttons will be available. Users can access a s
 
 ## Executive View
 
+<img src="https://github.com/RugvedSoman/PBI_P2/raw/main/Resources/E_V.gif" alt="E_V GIF" width="1000"/>
+
+
+## Project Outcome
+
+Using this report, data-driven decisions can be made effectively. It will also help in addressing numerous 'why' questions that may arise in different situations.
+
 
 
 
