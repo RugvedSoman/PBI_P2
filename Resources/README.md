@@ -202,6 +202,12 @@ In the Home view, all navigation buttons will be available. Users can access a s
 
 ## Sales View
 
+<img src="https://github.com/RugvedSoman/PBI_P2/raw/main/Resources/S_V.gif" alt="S_V GIF" width="1000"/>
+
+## Marketing View
+
+
+
 
 
 
