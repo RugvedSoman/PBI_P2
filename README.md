@@ -216,6 +216,8 @@ In the Home view, all navigation buttons will be available. Users can access a s
 
 <img src="https://github.com/RugvedSoman/PBI_P2/raw/main/Resources/E_V.gif" alt="E_V GIF" width="1000"/>
 
+You can find the full report file here: [Report](Report/BI_360.pbix)
+
 
 ## Project Outcome
 
