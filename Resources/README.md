@@ -196,6 +196,13 @@ In the Home view, all navigation buttons will be available. Users can access a s
 
 <img src="https://github.com/RugvedSoman/PBI_P2/raw/main/Resources/Info.gif" alt="Info GIF" width="1000"/>
 
+## Finance View
+
+<img src="https://github.com/RugvedSoman/PBI_P2/raw/main/Resources/F_V.gif" alt="F_V GIF" width="1000"/>
+
+## Sales View
+
+
 
 
 
