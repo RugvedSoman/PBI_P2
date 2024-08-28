@@ -206,6 +206,12 @@ In the Home view, all navigation buttons will be available. Users can access a s
 
 ## Marketing View
 
+<img src="https://github.com/RugvedSoman/PBI_P2/raw/main/Resources/M_V.gif" alt="M_V GIF" width="1000"/>
+
+## Supply Chain View
+
+
+
 
 
 
